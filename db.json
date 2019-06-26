@@ -87,9 +87,9 @@
         "rgba": [0,255,0,1],
         "hex": "#0F0"
       }
-    },
+    }
   ],
-  testjson: [
+  "testjson": [
     {
       "_id": "5d12d71eb8d80c717c2eaf74",
       "index": 0,
